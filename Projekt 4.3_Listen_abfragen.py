@@ -11,7 +11,7 @@ def frage_2():
     return "Ich bin in der freiwilligen Feuerwehr in Greven aktiv und dies erfüllt mich vollumfänglich. Im Team zu arbeiten und Menschen zu helfen ist eine sehr ehrenswerte Aufgabe und ich erfülle sie mit Stolz."
 
 def frage_3():
-    return "Antwort auf diese Frage steht noch aus."
+    return "Das Berufsbild des Wirtschaftsinformatikers ist reizvoll, weil es die Brücke zwischen Informationstechnologie und betriebswirtschaftlichen Prozessen schlägt."
 
 def frage_4():
     return "Meine Motivation für das duale Studium in Wirtschaftsinformatik bei Finanz Informatik liegt in der Verbindung meiner Bankkaufmann-Erfahrung und Kenntnis der Sparkassenprozesse mit Ihrem führenden IT-Umfeld, was mir ermöglicht, an der technologischen Spitze zu wachsen und zur Unternehmensentwicklung in einer Kultur, die Teamgeist und Eigeninitiative schätzt, beizutragen."
@@ -23,7 +23,7 @@ def Hauptprogramm():
         fragen = {
             "1": "Was zeichnet dich aus - Was sind deine Ecken und Kanten?",
             "2": "Was machst du so in deiner Freizeit?",
-            "3": "Was reizt dich am Berufsbild Wirtschaftsinformatiker? (Antwort steht noch aus)",
+            "3": "Was reizt dich am Berufsbild Wirtschaftsinformatiker?",
             "4": "Warum willst du dieses duale Studium bei uns in der FI machen?"
         }
 
